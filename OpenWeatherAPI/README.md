@@ -4,7 +4,7 @@ Abaixo, está o exemplo completo com PHP, usando:
 
 * Cliente fictício: **Agência de Viagens "MundoLivre"**
 * API escolhida: **OpenWeather** (clima por cidade)
-* Documentação da API escolhida: **Documentação da API OpenWeather** (clima por cidade)
+* [Documentação da API escolhida: **Documentação da API OpenWeather** (clima por cidade)](/OpenWeatherAPI/OpenWeather_API_Documentation.md)
 
 
 ## 📁 Estrutura do Projeto
